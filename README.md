@@ -1,0 +1,4 @@
+beautifulImages.js
+==================
+
+Project idea
